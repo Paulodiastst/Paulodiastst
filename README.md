@@ -39,7 +39,7 @@
 
 
 ### GitHub Stats
-![Paulodias GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulodias&theme=omni&show_icons=true)
+![Paulodias GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulodiastst&theme=omni&show_icons=true)
 
 
 
@@ -48,7 +48,7 @@
 <p align="center">
     
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulodias&layout=compact&theme=omni)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulodiastst&layout=compact&theme=omni)
   
 
 
@@ -59,11 +59,11 @@
 
 ### Top Cards 
   
-<a href="https://github.com/Paulodias/mysql-register-read">
+<a href="https://github.com/Paulodiastst/mysql-register-read">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulodias&theme=omni&repo=mysql-register-read" />
 </a>
 <a href="https://github.com/pinhobrunodev/jdbc-recovery-test">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulodias&theme=omni&repo=jdbc-recovery-test" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulodiastst&theme=omni&repo=jdbc-recovery-test" />
 </a>
 
 
