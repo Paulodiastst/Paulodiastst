@@ -59,11 +59,11 @@
 
 ### Top Cards 
   
-<a href="https://github.com/pinhobrunodev/mysql-register-read">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinhobrunodev&theme=omni&repo=mysql-register-read" />
+<a href="https://github.com/Paulodias/mysql-register-read">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulodias&theme=omni&repo=mysql-register-read" />
 </a>
 <a href="https://github.com/pinhobrunodev/jdbc-recovery-test">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinhobrunodev&theme=omni&repo=jdbc-recovery-test" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulodias&theme=omni&repo=jdbc-recovery-test" />
 </a>
 
 
