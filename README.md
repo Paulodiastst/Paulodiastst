@@ -8,7 +8,7 @@
 
 ##  Bem-vindo(a) ao meu perfil  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif"><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px" style="max-width:100%;"></a> 
 
-    📍 Natural de Salvador-BA 
+    📍 Natural de Macaé-RJ 
      
     .Estudante de Engenharia da Computação 🎓
 
