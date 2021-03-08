@@ -10,7 +10,7 @@
 
     📍 Natural de Salvador-BA 
      
-    .Estudante de Engenharia de Software 🎓
+    .Estudante de Engenharia da Computação 🎓
 
     .Atualmente estou estudando a linguagem Java ☕️💞
     
