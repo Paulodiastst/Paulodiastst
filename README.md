@@ -48,7 +48,7 @@
 <p align="center">
     
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinhobrunodev&layout=compact&theme=omni)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulodias&layout=compact&theme=omni)
   
 
 
