@@ -39,7 +39,8 @@
 
 
 ### GitHub Stats
-![Pinhobrundev's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinhobrunodev&theme=omni&show_icons=true)
+![Paulodias GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulodias&theme=omni&show_icons=true)
+
 
 
 
