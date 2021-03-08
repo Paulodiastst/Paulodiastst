@@ -60,7 +60,7 @@
 ### Top Cards 
   
 <a href="https://github.com/Paulodiastst/mysql-register-read">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulodias&theme=omni&repo=mysql-register-read" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulodiastst&theme=omni&repo=mysql-register-read" />
 </a>
 <a href="https://github.com/paulodiastst/jdbc-recovery-test">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulodiastst&theme=omni&repo=jdbc-recovery-test" />
