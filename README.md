@@ -16,8 +16,6 @@
     
     .Tenho conhecimentos em Html,Css e JavaScript 🎨👨🏻‍🎨
 
-    .Sou fascinado em aprender coisas novas 📚
-
     .Estudando com foco em Java Web 🚀☕️
 
 
