@@ -6,7 +6,7 @@
 
 
 
-## Hi there 👋 I'm Victor <img align="right" src="https://komarev.com/ghpvc/?username=Gictorbit&color=269077">
+## Hi there 👋 I'm Paulo <img align="right" src="https://komarev.com/ghpvc/?username=Gictorbit&color=269077">
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm currently studying computer engineering
 - 🌱 I am currently learning JavaScript, C ++
