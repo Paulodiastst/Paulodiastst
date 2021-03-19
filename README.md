@@ -71,6 +71,13 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width:100%;">
 
 
+
+
+### 📫 &nbsp;Connect with Me
+[![hotmail](https://img.shields.io/badge/-paulodiastst@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:paulodiastst@hotmail.com)
+[![telegram](https://img.shields.io/badge/-PauloRoberto-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/xXPauloRobertoXx
+
+
 <p align="center">
   Connect with me ! 
   </p>
@@ -79,8 +86,3 @@
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="max-width:100%;"></a>
 </p>
-
-
-### 📫 &nbsp;Connect with Me
-[![hotmail](https://img.shields.io/badge/-paulodiastst@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:paulodiastst@hotmail.com)
-[![telegram](https://img.shields.io/badge/-PauloRoberto-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/xXPauloRobertoXx)
