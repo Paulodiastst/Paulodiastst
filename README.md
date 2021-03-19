@@ -82,5 +82,5 @@
 
 
 ### 📫 &nbsp;Connect with Me
-[![hotmail](https://img.shields.io/badge/-paulodiastst@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](paulodiastst@hotmail.com)
+[![hotmail](https://img.shields.io/badge/-paulodiastst@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:paulodiastst@hotmail.com)
 [![telegram](https://img.shields.io/badge/-@gictor-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/gictor)
