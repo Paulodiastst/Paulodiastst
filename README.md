@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-141a20?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown)
 ![vim](https://img.shields.io/badge/-Vim-141a20?style=flat&logo=vim)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-141a20?style=flat&logo=adobe-photoshop)&nbsp;
 
