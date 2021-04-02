@@ -47,37 +47,37 @@
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/Paulodiastst/)
 
 **Design**
-[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/ildaneta/)
+[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/Paulodiastst/)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=flat-square&logo=Dribbble&link=https://github.com/ildaneta/)](https://github.com/Paulodiastst/)
 
 **Others Technologies**
-[![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&link=https://github.com/ildaneta/)](https://github.com/Paulodiastst/)
-[![Algolia](https://img.shields.io/badge/-Algolia-94cafc?style=flat-square&logo=Algolia&link=https://github.com/ildaneta/)](https://github.com/Paulodiastst/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ildaneta/)](https://github.com/Paulodiastst/)
-[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/ildaneta/)](https://github.com/Paulodiastst/)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/ildaneta/)](https://github.com/Paulodiastst/)
+[![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
+[![Algolia](https://img.shields.io/badge/-Algolia-94cafc?style=flat-square&logo=Algolia&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
+[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
 
 **Database**
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
+[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
 
 **CMS**
 [![Typo3](https://img.shields.io/badge/-Typo3-f9d2a7?style=flat-square&logo=typo3&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
 
 **Versioning and Communication**
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
-[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/ildaneta/)](https://github.com/ildaneta/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/Paulodiastst/)](https://github.com/ildaneta/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/Paulodiastst/)](https://github.com/ildaneta/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Paulodiastst/)](https://github.com/ildaneta/)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://github.com/Paulodiastst/)](https://github.com/ildaneta/)
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/Paulodiastst/)](https://github.com/ildaneta/)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
+[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
 
  
  
