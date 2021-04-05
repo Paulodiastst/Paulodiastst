@@ -27,8 +27,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/stylus-lang/stylus-lang.png"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
-
 
 ## Knowledge
 
@@ -41,16 +39,16 @@
 
 
 **Front-end / Mobile**
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ildaneta/)](https://github.com/Paulodiastst/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
 [![SASS](https://img.shields.io/badge/-SASS-ed9ac2?style=flat-square&logo=sass)](https://github.com/Paulodiastst/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ildaneta/)](https://github.com/Paulodiastst/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/Paulodiastst/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/Paulodiastst/)
 
 **Design**
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/Paulodiastst/)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=flat-square&logo=Dribbble&link=https://github.com/ildaneta/)](https://github.com/Paulodiastst/)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=flat-square&logo=Dribbble&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
 
 **Others Technologies**
 [![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
