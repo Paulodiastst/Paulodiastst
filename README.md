@@ -43,7 +43,7 @@
 **Front-end / Mobile**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ildaneta/)](https://github.com/Paulodiastst/)
 [![SASS](https://img.shields.io/badge/-SASS-ed9ac2?style=flat-square&logo=sass)](https://github.com/Paulodiastst/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ildaneta/)](https://github.com/Paulodiastst/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/Paulodiastst/)](https://github.com/Paulodiastst/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ildaneta/)](https://github.com/Paulodiastst/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/Paulodiastst/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/Paulodiastst/)
