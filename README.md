@@ -9,7 +9,7 @@
 ## Hi there 👋 I'm Paulo <img align="right" src="https://komarev.com/ghpvc/?username=Paulodiastst&color=269077">
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm currently studying computer engineering
-- 🌱 I am currently learning JavaScript, C ++
+- 🌱 I am currently learning C ++
 
 
 ## Languages and Technologies I use daily
