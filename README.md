@@ -18,7 +18,7 @@
 ## Hi there 👋 I'm Paulo <img align="right" src="https://komarev.com/ghpvc/?username=Paulodiastst&color=269077">
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I am currently studying software engineering
-- 🌱 I am currently learning C ++
+- 🌱 I am currently learning Java
 
 
 ## Languages and Technologies I use daily
@@ -35,6 +35,11 @@
  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code> 
  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"></code>
+ <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></code>
+ <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>
+ 
+ 
+ 
  
  
 
