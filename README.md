@@ -16,7 +16,7 @@
 
 
 ## Hi there 👋 I'm Paulo <img align="right" src="https://komarev.com/ghpvc/?username=Paulodiastst&color=269077">
-### 👨🏻‍ &nbsp;About Me
+### &nbsp;About Me
 - 💻 I am currently studying software engineering
 - 🌱 I am currently learning Java
 
