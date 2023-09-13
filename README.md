@@ -43,6 +43,15 @@
 4. Descritiva 1
 5. Árvores 1
 
+## Conhecimento:
+
+1. Python
+2. DAX
+3. VBA
+4. PHP
+5. Java
+6. JavaScript
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Paulodiastst)](https://github.com/anuraghazra/github-readme-stats)
 
