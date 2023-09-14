@@ -43,7 +43,7 @@
 4. Descritiva 1
 5. Árvores 1
 
-## Conhecimento:
+## Stack:
 
 1. Python
 2. DAX
